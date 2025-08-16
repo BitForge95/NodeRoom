@@ -382,7 +382,7 @@ function App() {
               }
             }}
             type="text"
-            placeholder="// Type your code here..."
+            placeholder="// What's on your mind?"
             className="flex-1 p-3 bg-gray-700/50 border border-green-500/20 rounded-xl text-green-100 placeholder-green-400/60 focus:outline-none focus:ring-2 focus:ring-green-500/50 focus:border-transparent transition-all duration-200 font-mono"
           />
           <button
